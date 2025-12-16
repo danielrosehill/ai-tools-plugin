@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/ai-tools-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/ai-tools-plugin",
   "commands": [
     "./commands/claude-code/agents/add-subagent-frontmatter.md",
     "./commands/claude-code/agents/agent-picker.md",
